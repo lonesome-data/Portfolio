@@ -1,5 +1,5 @@
 ## Welcome to Sean Forester's Portfolio.  
- Please click on the links below for projects of interest.
+By no means exhaustive, this work in progress captures projects completed during my self-study in machine learning over the last three years. Please click on the links below for projects of interest.
 
 [Neural Network Classifier](https://github.com/lonesome-data/Colab_ANN_Classifier)<br/>
 Description: Artificial neural network on Google CoLab's VM with TensorFlow backend. Binomial classifier predicts which of two consulting agencies conducted analysis. Analogous to predicting which of two professors graded a student's exam given only questions and answers.
